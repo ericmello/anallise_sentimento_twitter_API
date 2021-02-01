@@ -1,0 +1,1 @@
+# anallise_sentimento_twitter_API
